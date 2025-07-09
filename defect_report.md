@@ -29,7 +29,3 @@ When a new user enters their phone number during sign‑up, the app fails to sen
 ## Severity & Priority
 - **Severity:** High (blocks user registration)  
 - **Priority:** P1
-
-## Attachments
-- Video recording of the flow (link or attachment)
-- Screenshot of the timer + loading spinner
